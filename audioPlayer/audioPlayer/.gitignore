@@ -1,6 +1,3 @@
-debugOutput
-releaseOutput
-releaseSolution
-debugSolution
-makeDebug
-makeRelease
+/*
+!/.gitignore
+!/code/
